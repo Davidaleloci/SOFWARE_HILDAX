@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ProyectoHildax
+Bundle-SymbolicName: ProyectoHildax
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: ProyectoHildax
+Export-Package: com.proyectoHildax,
+ com.proyectoHildax.Controller,
+ com.proyectoHildax.ProyectoHildax,
+ com.proyectoHildax.Repository,
+ com.proyectoHildax.Service,
+ com.proyectoHildax.models
